@@ -1,2 +1,2 @@
 # BeamCompare
-Comparison of beamformer pipeline
+Comparison of beamformer pipelines
